@@ -1,0 +1,10 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build:tailwind": "npx tailwindcss -i ./input.css -o ./static/css/tailwind.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
