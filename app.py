@@ -18,6 +18,7 @@ def download_video():
         'format': 'best',
         'outtmpl': '%(title)s.%(ext)s',
         'noplaylist': True,
+        'cookiefile': 'cookies.txt',
         'postprocessors': [{
             'key': 'FFmpegVideoConvertor',
             'preferedformat': 'mp4',
