@@ -69,14 +69,18 @@ document.addEventListener('DOMContentLoaded', () => {
                         // videoDownload.innerHTML += '<div>'+`${videoFormats[i]['url']}` + '<br></div>';
                         // console.log(videoFormats[i]['url'])
                         const vdoFormat = videoFormats[i]['format']
-                        console.log(vdoFormat)
+                        // console.log(vdoFormat)
                         if (vdoFormat.includes('140-drc - audio only (medium, DRC)')){
-                            console.log("audio only links",videoFormats[i]['url'])
+                            // console.log("audio only links",videoFormats[i]['url'])
                             aDown = videoFormats[i]['url']
                         }
-                        if (vdoFormat.includes('137 - 1920x1080 (1080p)')){
-                            console.log("video only links",videoFormats[i]['url'])
-                            vDown = videoFormats[i]['url']
+                        if (data.info){
+                            // console.log("video only links",videoFormats[i]['url'])
+                            if(videoFormats[i]['ext'] == 'mp4' && (videoFormats[i]['url'].includes('https://rr')) && videoFormats[i]['format'].includes('1920x1080')){
+                                vDown = videoFormats[i]['url']
+                                // console.log(videoFormats[i]['url'])
+                            }
+                            
                         }
                     }
                     document.getElementById("vdown").onclick = function(e){

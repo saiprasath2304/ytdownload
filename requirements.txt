@@ -1,5 +1,6 @@
 blinker==1.8.2
 Brotli==1.1.0
+browser-cookie3==0.19.1
 certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
@@ -9,6 +10,7 @@ gunicorn==23.0.0
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.4
+lz4==4.3.3
 MarkupSafe==2.1.5
 mutagen==1.47.0
 packaging==24.1
@@ -18,4 +20,4 @@ requests==2.32.3
 urllib3==2.2.3
 websockets==13.1
 Werkzeug==3.0.4
-yt-dlp==2024.8.6
+yt-dlp==2024.9.27
