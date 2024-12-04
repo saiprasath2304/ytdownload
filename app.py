@@ -6,6 +6,20 @@ from io import BytesIO
 
 app = Flask(__name__)
 
+# Replace with your YouTube Data API v3 key
+API_KEY = 'AIzaSyBwwYMeZ4iFOaPIRvhttR3J2q1w1Ljlzjw'  # Replace with your actual API key
+
+def get_video_info(video_id):
+    """Fetch video metadata using YouTube Data API v3"""
+    url = f'https://www.googleapis.com/youtube/v3/videos?id={video_id}&key={API_KEY}&part=snippet,contentDetails,status'
+    response = requests.get(url)
+    video_info = response.json()
+
+    if 'items' in video_info:
+        return video_info['items'][0]  # Return the video metadata
+    else:
+        return None
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -14,31 +28,46 @@ def index():
 def download_video():
     video_url = request.form.get('video_url')
 
-    ydl_opts = {
-        'format': 'bestvideo+bestaudio/best',
-        'outtmpl': '%(title)s.%(ext)s',
-        'noplaylist': True,
-        'cookiefile': 'cookies.txt',
-        'postprocessors': [{
-            'key': 'FFmpegVideoConvertor',
-            'preferedformat': 'mp4',
-        }],
-        'postprocessor_args': ['-crf', '23,'],
-        'ratelimit': 1024 * 1024,
-        'subtitleslangs': ['en'],
-        'writesubtitles': True,
-        'writethumbnail': True,
-    }
+    video_id = video_url.split("v=")[1]  # Extract video ID from URL
 
-    try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(video_url, download=False)
-            output_json_path = 'static/video_info.json'
-            with open(output_json_path, 'w', encoding='utf-8') as json_file:
-                json.dump(info, json_file, ensure_ascii=False, indent=4)
-            return jsonify({'success': True, 'info': info})
-    except Exception as e:
-        return jsonify({'success': False, 'error': str(e)})
+    # Fetch video metadata
+    video_info = get_video_info(video_id)
+
+    if video_info:
+        # Check if there are any restrictions (e.g., age-restricted)
+        restrictions = video_info.get('status', {}).get('restrictions', [])
+        
+        if restrictions:
+            return jsonify({'success': False, 'error': 'Video is restricted. Please login or bypass restrictions.'})
+        
+        # Video is not restricted, proceed with downloading
+        ydl_opts = {
+            'format': 'bestvideo+bestaudio/best',
+            'outtmpl': '%(title)s.%(ext)s',
+            'noplaylist': True,
+            'cookiefile': 'cookies.txt',
+            'postprocessors': [{
+                'key': 'FFmpegVideoConvertor',
+                'preferedformat': 'mp4',
+            }],
+            'postprocessor_args': ['-crf', '23'],
+            'ratelimit': 1024 * 1024,
+            'subtitleslangs': ['en'],
+            'writesubtitles': True,
+            'writethumbnail': True,
+        }
+
+        try:
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                info = ydl.extract_info(video_url, download=False)
+                output_json_path = 'static/video_info.json'
+                with open(output_json_path, 'w', encoding='utf-8') as json_file:
+                    json.dump(info, json_file, ensure_ascii=False, indent=4)
+                return jsonify({'success': True, 'info': info})
+        except Exception as e:
+            return jsonify({'success': False, 'error': str(e)})
+    else:
+        return jsonify({'success': False, 'error': 'Video not found or invalid video ID.'})
     
 @app.route('/download-image')
 def download_image():
