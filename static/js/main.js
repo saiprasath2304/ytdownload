@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         // videoDownload.innerHTML += '<div>'+`${videoFormats[i]['url']}` + '<br></div>';
                         // console.log(videoFormats[i]['url'])
                         const vdoFormat = videoFormats[i]['format']
-                        // console.log(vdoFormat)
+                        console.log(vdoFormat)
                         if (vdoFormat.includes('140-drc - audio only (medium, DRC)')){
                             // console.log("audio only links",videoFormats[i]['url'])
                             aDown = videoFormats[i]['url']

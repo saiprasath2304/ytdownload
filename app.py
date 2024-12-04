@@ -15,7 +15,7 @@ def download_video():
     video_url = request.form.get('video_url')
 
     ydl_opts = {
-        'format': 'best',
+        'format': 'bestvideo+bestaudio/best',
         'outtmpl': '%(title)s.%(ext)s',
         'noplaylist': True,
         'cookiefile': 'cookies.txt',
