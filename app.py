@@ -3,11 +3,12 @@ import yt_dlp
 import json
 import requests
 from io import BytesIO
+import os
 
 app = Flask(__name__)
 
 # Replace with your YouTube Data API v3 key
-API_KEY = 'AIzaSyBwwYMeZ4iFOaPIRvhttR3J2q1w1Ljlzjw'  # Replace with your actual API key
+API_KEY = os.getenv('YOUTUBE_API_KEY', 'YOUR_API_KEY')  # Replace with your actual API key
 
 def get_video_info(video_id):
     """Fetch video metadata using YouTube Data API v3"""
@@ -27,8 +28,12 @@ def index():
 @app.route('/download', methods=['POST'])
 def download_video():
     video_url = request.form.get('video_url')
-
-    video_id = video_url.split("v=")[1]  # Extract video ID from URL
+    # print(video_url)
+    if(video_url.__contains__("youtu.be")):
+        video_id = video_url.split("/")[3].split("?")[0]
+    else:
+        video_id = video_url.split("v=")[1]
+    # print(video_id)
 
     # Fetch video metadata
     video_info = get_video_info(video_id)
