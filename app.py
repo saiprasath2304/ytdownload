@@ -31,6 +31,8 @@ def download_video():
     # print(video_url)
     if(video_url.__contains__("youtu.be")):
         video_id = video_url.split("/")[3].split("?")[0]
+    elif(video_url.__contains__("shorts")):
+        video_id = video_url.split("/")[4].split("?")[0]
     else:
         video_id = video_url.split("v=")[1]
     # print(video_id)
