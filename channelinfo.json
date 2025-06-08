@@ -1,0 +1,3480 @@
+{
+  "playlists": [
+    {
+      "contentDetails": {
+        "itemCount": 50
+      },
+      "etag": "KfiMqhKCm7aOY95K6JFuZ83SREw",
+      "id": "PLqgS4ef1gBl06BFg-ls2fmL3ZWQlEGLFP",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Thyagarajan Sir"
+        },
+        "publishedAt": "2025-01-28T14:50:04.345085Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/p4MhhjlWzZ0/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/p4MhhjlWzZ0/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/p4MhhjlWzZ0/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/p4MhhjlWzZ0/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/p4MhhjlWzZ0/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Thyagarajan Sir"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 27
+      },
+      "etag": "3Giq3_lWfMyIteX-YI-Ym6J748s",
+      "id": "PLqgS4ef1gBl0gxvvhsdhJAkt04nmrT8Ju",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Mahavakyas"
+        },
+        "publishedAt": "2025-01-28T12:17:21.400406Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/JCXK36vYWQM/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/JCXK36vYWQM/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/JCXK36vYWQM/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/JCXK36vYWQM/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/JCXK36vYWQM/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Mahavakyas"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 1
+      },
+      "etag": "tPVC24VaQHdajKQuIpes5UGyh50",
+      "id": "PLqgS4ef1gBl2Dqa4m5XiTjbvp8rYn_qbF",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "SLBTS 2024 #balvikas #talent #humanvalues #games #kids #children #fun"
+        },
+        "publishedAt": "2025-01-26T15:01:22.942038Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/KF2Jc4kGb_U/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/KF2Jc4kGb_U/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/KF2Jc4kGb_U/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/KF2Jc4kGb_U/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/KF2Jc4kGb_U/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "SLBTS 2024 #balvikas #talent #humanvalues #games #kids #children #fun"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 2
+      },
+      "etag": "atrFuGVAB8J-93LbuIGLvYgzT5c",
+      "id": "PLqgS4ef1gBl0zmKILkWF3pIXzq_9HF8uI",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Nam Vedam #vedamantra #vedam #vedas #peace #love #nature #atma #selfrealization #goal #spirituality #foundation #basics"
+        },
+        "publishedAt": "2025-01-25T12:35:45.62816Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Ws1oMh7dFx8/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Ws1oMh7dFx8/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Ws1oMh7dFx8/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Ws1oMh7dFx8/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Ws1oMh7dFx8/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Nam Vedam #vedamantra #vedam #vedas #peace #love #nature #atma #selfrealization #goal #spirituality #foundation #basics"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 1
+      },
+      "etag": "LGg_kNUsUQztvEFyemWWjRkGiQY",
+      "id": "PLqgS4ef1gBl2GZJLIEsm9r-z9OOxnkFaY",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Justice Karpaga Vinayagam | Judge | Advocate | Study Circle | Court | Law | Human Values #divine #guidance #saidevotees #experience #satsang #miracles"
+        },
+        "publishedAt": "2025-01-24T13:12:53.429181Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Justice Karpaga Vinayagam | Judge | Advocate | Study Circle | Court | Law | Human Values #divine #guidance #saidevotees #experience #satsang #miracles"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "etag": "4Gt4gzWMkwMLAv4lUJaGARR7kXE",
+      "id": "PLqgS4ef1gBl37EFey-VxVDrA-P2gO3oOs",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Thiruppaliyezhuchi | Margazhi 2023-2024"
+        },
+        "publishedAt": "2025-01-04T12:47:36.853053Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/3vx-iLxqLdA/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/3vx-iLxqLdA/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/3vx-iLxqLdA/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/3vx-iLxqLdA/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/3vx-iLxqLdA/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Thiruppaliyezhuchi | Margazhi 2023-2024"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 29
+      },
+      "etag": "o-uR3DPRPq6LNNx4NnnFD3eTOV0",
+      "id": "PLqgS4ef1gBl3fdoHrevWnAHbu4I7I1ZZq",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#care #compassion #teaching #famousquotes #turningpoints #service #education #balvikas #satsang #inspiration #motivation #divineguidance #peace #calm #bhajan #stories #SriSathyaSai #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil\n\nFor feedback and any queries, please write to us at listener@sssmediacentre.org or ping to our WhatsApp number +91 9393258258\n\nWebsite - http://www.sssmediacentre.org\nPrasanthi Connect App:\n- Google : https://shorturl.at/bdtX3\n- Apple : https://apple.co/3KfWj3F\n================================================================\nTelegram - https://t.me/SriSathyaSaiTamil (Please install the Telegram App and click this link to join). \nWhatsApp - https://chat.whatsapp.com/BU8hhs1dyuY0C7BGQ0tZgs\nTwitter - http://twitter.com/thesathyasai and http://twitter.com/radiosaih2h\nFacebook - https://www.facebook.com/srisathyasaibaba\nInstagram - @SriSathyaSaiTamil @SriSathyaSaiOfficial\n=================================================================\nOur YouTube Channels - \nhttps://youtube.com/@SriSathyaSaiOfficial (Sri Sathya Sai Official)\nhttps://youtube.com/@SriSathyaSaiSpeaksOfficial (Discourse Channel)\nhttps://youtube.com/@SriSathyaSaiBhajans (Bhajans Channel)\nhttps://youtube.com/@PrasanthiMandirLiveRadioSai (Daily Mandir Live)\nhttps://youtube.com/@SriSathyaSaiKidsWorld (Kids Channel)\nhttps://youtube.com/@SriSathyaSaiTelugu\nhttps://youtube.com/@SriSathyaSaiHindi\nhttps://youtube.com/@SriSathyaSaiTamil\nhttps://youtube.com/@SriSathyaSaiMalayalam\nhttps://youtube.com/@SriSathyaSaiKannada\n==================================================================\nOur Digital Footprint https://linktr.ee/srisathyasaiofficial\n\nThe Sri Sathya Sai Media Centre is the media arm of Sri Sathya Sai Central Trust which spearheads the Sri Sathya Sai mission and is headquartered in Prasanthi Nilayam, Puttaparthi, India.\n\nThis channel offers you content based on the life, message and mission of Bhagawan Sri Sathya Sai Baba in the form of spiritual discussions, Baba's Divine discourses, bhajans, devotional songs, music videos, insightful documentaries and so on.\n\n#sssmc | SRI SATYA SAI MEDIA CENTRE",
+        "localized": {
+          "description": "#care #compassion #teaching #famousquotes #turningpoints #service #education #balvikas #satsang #inspiration #motivation #divineguidance #peace #calm #bhajan #stories #SriSathyaSai #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil\n\nFor feedback and any queries, please write to us at listener@sssmediacentre.org or ping to our WhatsApp number +91 9393258258\n\nWebsite - http://www.sssmediacentre.org\nPrasanthi Connect App:\n- Google : https://shorturl.at/bdtX3\n- Apple : https://apple.co/3KfWj3F\n================================================================\nTelegram - https://t.me/SriSathyaSaiTamil (Please install the Telegram App and click this link to join). \nWhatsApp - https://chat.whatsapp.com/BU8hhs1dyuY0C7BGQ0tZgs\nTwitter - http://twitter.com/thesathyasai and http://twitter.com/radiosaih2h\nFacebook - https://www.facebook.com/srisathyasaibaba\nInstagram - @SriSathyaSaiTamil @SriSathyaSaiOfficial\n=================================================================\nOur YouTube Channels - \nhttps://youtube.com/@SriSathyaSaiOfficial (Sri Sathya Sai Official)\nhttps://youtube.com/@SriSathyaSaiSpeaksOfficial (Discourse Channel)\nhttps://youtube.com/@SriSathyaSaiBhajans (Bhajans Channel)\nhttps://youtube.com/@PrasanthiMandirLiveRadioSai (Daily Mandir Live)\nhttps://youtube.com/@SriSathyaSaiKidsWorld (Kids Channel)\nhttps://youtube.com/@SriSathyaSaiTelugu\nhttps://youtube.com/@SriSathyaSaiHindi\nhttps://youtube.com/@SriSathyaSaiTamil\nhttps://youtube.com/@SriSathyaSaiMalayalam\nhttps://youtube.com/@SriSathyaSaiKannada\n==================================================================\nOur Digital Footprint https://linktr.ee/srisathyasaiofficial\n\nThe Sri Sathya Sai Media Centre is the media arm of Sri Sathya Sai Central Trust which spearheads the Sri Sathya Sai mission and is headquartered in Prasanthi Nilayam, Puttaparthi, India.\n\nThis channel offers you content based on the life, message and mission of Bhagawan Sri Sathya Sai Baba in the form of spiritual discussions, Baba's Divine discourses, bhajans, devotional songs, music videos, insightful documentaries and so on.\n\n#sssmc | SRI SATYA SAI MEDIA CENTRE",
+          "title": "BIRTHDAY CELEBRATION VIDEOS | TAMILNADU #shorts #shortsfeed #shortvideo #celebration #decoration #spirituality #god #guru #life #atma #goals #love"
+        },
+        "publishedAt": "2024-12-05T07:33:02.200439Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/XANNWUHp7Cs/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/XANNWUHp7Cs/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/XANNWUHp7Cs/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/XANNWUHp7Cs/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/XANNWUHp7Cs/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "BIRTHDAY CELEBRATION VIDEOS | TAMILNADU #shorts #shortsfeed #shortvideo #celebration #decoration #spirituality #god #guru #life #atma #goals #love"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 6
+      },
+      "etag": "20rqF6rbZHcpgPS0nDFMH5xpxFQ",
+      "id": "PLqgS4ef1gBl3SiEYb95YJ22Inh2mCOqSY",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#srisathyasaitamil #srisathyasai #sathyasaibaba #miraclesofsai #experiences #devotees",
+        "localized": {
+          "description": "#srisathyasaitamil #srisathyasai #sathyasaibaba #miraclesofsai #experiences #devotees",
+          "title": "Atmartha Anubavanga - Sundaravalli Suresh #experience #inspiration #motivation #satsang #miracle #sathyasai #radiosailive #radiosai #prasanthinilayam"
+        },
+        "publishedAt": "2024-11-29T12:48:25.892686Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/jte3StxGbeU/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/jte3StxGbeU/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/jte3StxGbeU/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/jte3StxGbeU/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/jte3StxGbeU/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Atmartha Anubavanga - Sundaravalli Suresh #experience #inspiration #motivation #satsang #miracle #sathyasai #radiosailive #radiosai #prasanthinilayam"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 6
+      },
+      "etag": "lVKrZNwjFYmQa7Q-Ldo37lLcjIw",
+      "id": "PLqgS4ef1gBl1uiInO04g6-y_Rh8ZKDGJI",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "ஸ்ரீ சத்ய சாயி பாபாயணம் - Sri Sathya Sai Babayanam - Stories of sri sathya sai . #stories #srisathyasaitamil #sathyasai"
+        },
+        "publishedAt": "2024-11-17T13:07:22.975993Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/ErXDYbTGjKQ/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/ErXDYbTGjKQ/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/ErXDYbTGjKQ/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/ErXDYbTGjKQ/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/ErXDYbTGjKQ/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "ஸ்ரீ சத்ய சாயி பாபாயணம் - Sri Sathya Sai Babayanam - Stories of sri sathya sai . #stories #srisathyasaitamil #sathyasai"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 53
+      },
+      "etag": "IZMq1rQChVb8p-ENlsf3-7-KEYo",
+      "id": "PLqgS4ef1gBl2Gl-1c0ZV5q1YoWmuwKFKs",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#chanting #talking #cute #reaction #fun #enjoy #spirituality #god #guru #story #experience #narration #inspiration #motivation #love #innocent #kindness \n\nFor feedback or any queries, please reach us at listener@sssmediacentre.org or via WhatsApp at +91 9393258258.\n\nWebsite - http://www.sssmediacentre.org\nPrasanthi Connect App:\n- Google : https://shorturl.at/bdtX3\n- Apple : https://apple.co/3KfWj3F\n\nSocial Media & Messaging Platforms\nTelegram - https://t.me/SriSathyaSai_RadioSai (Please install the Telegram App and click this link to join). \nWhatsApp - https://chat.whatsapp.com/IdWHVokzCeUFmnILMekZ61\nTwitter - http://twitter.com/thesathyasai and http://twitter.com/radiosaih2h\nFacebook - https://www.facebook.com/srisathyasaibaba\nInstagram - @srisathyasaiofficial\n\nYouTube Channels - \nhttps://youtube.com/@SriSathyaSaiOfficial (Sri Sathya Sai Official)\nhttps://youtube.com/@SriSathyaSaiSpeaksOfficial (Discourse Channel)\nhttps://youtube.com/@SriSathyaSaiBhajans (Bhajans Channel)\nhttps://youtube.com/@PrasanthiMandirLiveRadioSai (Daily Mandir Live)\nhttps://youtube.com/@SriSathyaSaiKidsWorld (Kids Channel)\nhttps://youtube.com/@SriSathyaSaiTelugu\nhttps://youtube.com/@SriSathyaSaiHindi\nhttps://youtube.com/@SriSathyaSaiTamil\nhttps://youtube.com/@SriSathyaSaiMalayalam\nhttps://youtube.com/@SriSathyaSaiKannada\nhttps://youtube.com/@SriSathyaSaiMandarin\n\nExplore More - \nOur Digital Footprint - https://linktr.ee/srisathyasaiofficial\n\nThe Sri Sathya Sai Media Centre is the media wing of the Sri Sathya Sai Central Trust, headquartered in Prasanthi Nilayam, Puttaparthi, India. This platform offers content centred on the life, message, and mission of Bhagawan Sri Sathya Sai Baba, featuring spiritual discussions, Divine discourses, bhajans, devotional songs, music videos, documentaries, and much more.",
+        "localized": {
+          "description": "#chanting #talking #cute #reaction #fun #enjoy #spirituality #god #guru #story #experience #narration #inspiration #motivation #love #innocent #kindness \n\nFor feedback or any queries, please reach us at listener@sssmediacentre.org or via WhatsApp at +91 9393258258.\n\nWebsite - http://www.sssmediacentre.org\nPrasanthi Connect App:\n- Google : https://shorturl.at/bdtX3\n- Apple : https://apple.co/3KfWj3F\n\nSocial Media & Messaging Platforms\nTelegram - https://t.me/SriSathyaSai_RadioSai (Please install the Telegram App and click this link to join). \nWhatsApp - https://chat.whatsapp.com/IdWHVokzCeUFmnILMekZ61\nTwitter - http://twitter.com/thesathyasai and http://twitter.com/radiosaih2h\nFacebook - https://www.facebook.com/srisathyasaibaba\nInstagram - @srisathyasaiofficial\n\nYouTube Channels - \nhttps://youtube.com/@SriSathyaSaiOfficial (Sri Sathya Sai Official)\nhttps://youtube.com/@SriSathyaSaiSpeaksOfficial (Discourse Channel)\nhttps://youtube.com/@SriSathyaSaiBhajans (Bhajans Channel)\nhttps://youtube.com/@PrasanthiMandirLiveRadioSai (Daily Mandir Live)\nhttps://youtube.com/@SriSathyaSaiKidsWorld (Kids Channel)\nhttps://youtube.com/@SriSathyaSaiTelugu\nhttps://youtube.com/@SriSathyaSaiHindi\nhttps://youtube.com/@SriSathyaSaiTamil\nhttps://youtube.com/@SriSathyaSaiMalayalam\nhttps://youtube.com/@SriSathyaSaiKannada\nhttps://youtube.com/@SriSathyaSaiMandarin\n\nExplore More - \nOur Digital Footprint - https://linktr.ee/srisathyasaiofficial\n\nThe Sri Sathya Sai Media Centre is the media wing of the Sri Sathya Sai Central Trust, headquartered in Prasanthi Nilayam, Puttaparthi, India. This platform offers content centred on the life, message, and mission of Bhagawan Sri Sathya Sai Baba, featuring spiritual discussions, Divine discourses, bhajans, devotional songs, music videos, documentaries, and much more.",
+          "title": "Children's Day Campaign | குழந்தையும் தெய்வமும் |Kuzhandaiyum Deivamum #child #children #speaking #speakingskills #kids #funnyreaction #shorts #shorts"
+        },
+        "publishedAt": "2024-11-14T15:24:59.546234Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/4Ff6jROkOrc/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/4Ff6jROkOrc/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/4Ff6jROkOrc/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/4Ff6jROkOrc/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/4Ff6jROkOrc/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Children's Day Campaign | குழந்தையும் தெய்வமும் |Kuzhandaiyum Deivamum #child #children #speaking #speakingskills #kids #funnyreaction #shorts #shorts"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "etag": "5YvxETZitK1SUqNQI5f0f-1THnU",
+      "id": "PLqgS4ef1gBl0L_-tR25f2VW9r7lNc4as3",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "#GAB2024 #akhandabhajan"
+        },
+        "publishedAt": "2024-11-09T19:24:08.447025Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/EdBGqjSNOh0/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/EdBGqjSNOh0/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/EdBGqjSNOh0/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/EdBGqjSNOh0/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/EdBGqjSNOh0/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "#GAB2024 #akhandabhajan"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "etag": "F1MPJkdGhv4tM2hX8yINSupimQQ",
+      "id": "PLqgS4ef1gBl0YrB2b2g5BKG5Fa3FkpUEL",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#special #tamilsong #murugansongs #devotional #energeticsong",
+        "localized": {
+          "description": "#special #tamilsong #murugansongs #devotional #energeticsong",
+          "title": "Muruga Devotionals | முருகன் பாடல்கள் #muruga #karthikeya #kanda #kadamba #kathirvela #vel #velmurugan #aadikiruthigai #krithigai #kandasasti #sashti"
+        },
+        "publishedAt": "2024-11-04T13:02:55.833685Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/03jId-OB9Gw/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/03jId-OB9Gw/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/03jId-OB9Gw/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/03jId-OB9Gw/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/03jId-OB9Gw/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Muruga Devotionals | முருகன் பாடல்கள் #muruga #karthikeya #kanda #kadamba #kathirvela #vel #velmurugan #aadikiruthigai #krithigai #kandasasti #sashti"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 9
+      },
+      "etag": "cEQ9aUt4rCifsiViyTbZLLak5tE",
+      "id": "PLqgS4ef1gBl1kD9MPimbJ28I-tkDeXC-g",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#miracle #satsang #inspiration #motivation #problemsolving #skill #dasara #stotram #abiramiandhathi #devi #durga #lakshmi #saraswati #kali #mother #saigeetha #god \n\n‘தயாசாகரி சாயி மாதா’ என்ற இத்தொடரின் நிறைவுநாளான இன்று, ஸ்ரீலலிதையின் 1000 திருநாமங்களில் ஒன்றான 'தன் கட்டளைகளை எவராலும் மீறமுடியாதவளாய்த் திகழ்பவளே லலிதை!' என்பதைச் சுட்டிக்காட்டி, நாமெல்லாம் ஸ்வாமியின் கட்டளைகளை சிரமேற்கொண்டால் நற்கதியுண்டு; இல்லையெனில் துர்கதி தான் என எச்சரிக்கின்றார். அதென்ன கட்டளைகள்? தெரிந்துகொள்வோமா?",
+        "localized": {
+          "description": "#miracle #satsang #inspiration #motivation #problemsolving #skill #dasara #stotram #abiramiandhathi #devi #durga #lakshmi #saraswati #kali #mother #saigeetha #god \n\n‘தயாசாகரி சாயி மாதா’ என்ற இத்தொடரின் நிறைவுநாளான இன்று, ஸ்ரீலலிதையின் 1000 திருநாமங்களில் ஒன்றான 'தன் கட்டளைகளை எவராலும் மீறமுடியாதவளாய்த் திகழ்பவளே லலிதை!' என்பதைச் சுட்டிக்காட்டி, நாமெல்லாம் ஸ்வாமியின் கட்டளைகளை சிரமேற்கொண்டால் நற்கதியுண்டு; இல்லையெனில் துர்கதி தான் என எச்சரிக்கின்றார். அதென்ன கட்டளைகள்? தெரிந்துகொள்வோமா?",
+          "title": "Sri. Mallikeswaran | Dayasagari Sai Mata | தயாசாகரி சாயி மாதா | Navarathri Special | Dasara Special #love #care #kindness #compassion #spirituality"
+        },
+        "publishedAt": "2024-10-15T09:15:11.824002Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/tIC6lPf6Kdo/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/tIC6lPf6Kdo/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/tIC6lPf6Kdo/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/tIC6lPf6Kdo/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/tIC6lPf6Kdo/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Sri. Mallikeswaran | Dayasagari Sai Mata | தயாசாகரி சாயி மாதா | Navarathri Special | Dasara Special #love #care #kindness #compassion #spirituality"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 27
+      },
+      "etag": "zmjSVajIn_5-I--Ondm3WYBrqMY",
+      "id": "PLqgS4ef1gBl1d4Y4L2hc9lolpR3kjalmp",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#dasara #dussera #kali #mother #satsang #documentary #matarani #mata #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss",
+        "localized": {
+          "description": "#dasara #dussera #kali #mother #satsang #documentary #matarani #mata #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss",
+          "title": "Dasara 2024 Navaratri 2024 #dussera #navaratri #devi #navratri #devi #durga #lakshmi #saraswati #vijayadashami"
+        },
+        "publishedAt": "2024-10-02T13:11:01.893233Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/ezMUR7mkqaw/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/ezMUR7mkqaw/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/ezMUR7mkqaw/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/ezMUR7mkqaw/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/ezMUR7mkqaw/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Dasara 2024 Navaratri 2024 #dussera #navaratri #devi #navratri #devi #durga #lakshmi #saraswati #vijayadashami"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "etag": "b7ZyTSkTT19rN7cX7cN-7Fxr8LU",
+      "id": "PLqgS4ef1gBl1vIEeLt9cpP9wh9gYok6fH",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#happy #devotionalsongs #popularsong #tamilsong",
+        "localized": {
+          "description": "#happy #devotionalsongs #popularsong #tamilsong",
+          "title": "Sri Sathya Sai Chalisa Shorts #chalisa #saichalisa #music #meditative #mustlisten #soothing #relaxing"
+        },
+        "publishedAt": "2024-09-29T06:18:58.735225Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/PL43juwAXtc/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/PL43juwAXtc/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/PL43juwAXtc/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/PL43juwAXtc/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/PL43juwAXtc/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Sri Sathya Sai Chalisa Shorts #chalisa #saichalisa #music #meditative #mustlisten #soothing #relaxing"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "1eNTpZUIQ1u0btws70q5tzDTYbQ",
+      "id": "PLqgS4ef1gBl3KjpdOAd-nG-RLwcD4pTZj",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#inspiration #motivation #satsang #miracle #courage #faith #trustgod #spirituality \n#SriSathyaSai #Radiosai #srisathyasaitamil #Prasanthinilayam #sathyasaibaba  #experience #god #experiencebydevotees #wonder #good #motivationaltalks #tamilstory #saibaba #hearttouching #hearttouchingstory #miracle #god #sathyasaimiracles #sathyasaistories #shockingrevelations #inspirationaltalk #divineguidance #bhakthi #atmaram #atmarama #miracles #worklifebalance #impulse #mindcontrol #chanting #compassion #solution #peace #meditative",
+        "localized": {
+          "description": "#inspiration #motivation #satsang #miracle #courage #faith #trustgod #spirituality \n#SriSathyaSai #Radiosai #srisathyasaitamil #Prasanthinilayam #sathyasaibaba  #experience #god #experiencebydevotees #wonder #good #motivationaltalks #tamilstory #saibaba #hearttouching #hearttouchingstory #miracle #god #sathyasaimiracles #sathyasaistories #shockingrevelations #inspirationaltalk #divineguidance #bhakthi #atmaram #atmarama #miracles #worklifebalance #impulse #mindcontrol #chanting #compassion #solution #peace #meditative",
+          "title": "C. Gopalan | சாயி ஹ்ருதயம் | Sai Hrudayam | ஸ்ரீ கோபாலன் | ஆத்மார்த்த அனுபவங்கள் #experience #god #inspiration #love #care #ego #problemsolving"
+        },
+        "publishedAt": "2024-09-19T21:54:59.49916Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/4of48SNW2do/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/4of48SNW2do/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/4of48SNW2do/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/4of48SNW2do/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/4of48SNW2do/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "C. Gopalan | சாயி ஹ்ருதயம் | Sai Hrudayam | ஸ்ரீ கோபாலன் | ஆத்மார்த்த அனுபவங்கள் #experience #god #inspiration #love #care #ego #problemsolving"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "Za3_5iQuvMcEBRcbTH9jDRozS98",
+      "id": "PLqgS4ef1gBl3Y9cmPIWJHAlyZjmR8KM8k",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#inspiration #motivation #problemsolving #solution #peace #meditative #impulse #mindcontrol #chanting #inspiration #motivation #courage #faith #trustgod #spirituality \n#SriSathyaSai #Radiosai #srisathyasaitamil #sathyasaibaba #god #experiencebydevotees #wonder #good #motivationaltalks #tamilstory #saibaba #hearttouching #hearttouchingstory #miracle #god #sathyasaimiracles #sathyasaistories #shockingrevelations #inspirationaltalk #divineguidance #bhakthi #worklifebalance #impulse #mindcontrol #chanting #compassion #solution #peace #meditative\nDirect Experiences with Bhagawan by Smt. Kuppam Vijayamma on Various Spiritual Questions.",
+        "localized": {
+          "description": "#inspiration #motivation #problemsolving #solution #peace #meditative #impulse #mindcontrol #chanting #inspiration #motivation #courage #faith #trustgod #spirituality \n#SriSathyaSai #Radiosai #srisathyasaitamil #sathyasaibaba #god #experiencebydevotees #wonder #good #motivationaltalks #tamilstory #saibaba #hearttouching #hearttouchingstory #miracle #god #sathyasaimiracles #sathyasaistories #shockingrevelations #inspirationaltalk #divineguidance #bhakthi #worklifebalance #impulse #mindcontrol #chanting #compassion #solution #peace #meditative\nDirect Experiences with Bhagawan by Smt. Kuppam Vijayamma on Various Spiritual Questions.",
+          "title": "Smt. Kuppam Vijayamma | Satsang | Experiences | Divine Guidance #spirituality #miracle #experience #satsangm#compassion #love #care #ego"
+        },
+        "publishedAt": "2024-09-09T14:33:42.933431Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/yvX8BtwvjXw/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/yvX8BtwvjXw/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/yvX8BtwvjXw/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/yvX8BtwvjXw/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/yvX8BtwvjXw/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Smt. Kuppam Vijayamma | Satsang | Experiences | Divine Guidance #spirituality #miracle #experience #satsangm#compassion #love #care #ego"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 7
+      },
+      "etag": "9QiJeuywcKbtUdSV3txj_YGR2gI",
+      "id": "PLqgS4ef1gBl25-hqhRGNC-qz720u80U8m",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "Chaturthi | Pillayar Padalgal | பிள்ளையார் பாடல்கள் | விநாயக சதுர்த்தி",
+        "localized": {
+          "description": "Chaturthi | Pillayar Padalgal | பிள்ளையார் பாடல்கள் | விநாயக சதுர்த்தி",
+          "title": "Ganesha Songs | Vinayaka Songs | Pillayar Songs #vinayakachaturthi #ganeshchaturthi #devotinalvideos #ganeshasongs #mustlisten"
+        },
+        "publishedAt": "2024-09-06T12:59:58.579313Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Z1TarXW-RE4/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Z1TarXW-RE4/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Z1TarXW-RE4/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Z1TarXW-RE4/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Z1TarXW-RE4/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Ganesha Songs | Vinayaka Songs | Pillayar Songs #vinayakachaturthi #ganeshchaturthi #devotinalvideos #ganeshasongs #mustlisten"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "Fxne3Ag361hNDJZBapKsufofG94",
+      "id": "PLqgS4ef1gBl3utObQEH0uUesopiaMdRm9",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Musical shorts #music #calmingmusic #mustlisten #devotionalsongs #devotional"
+        },
+        "publishedAt": "2024-08-03T06:16:01.531906Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/bwvO9kYD62k/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/bwvO9kYD62k/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/bwvO9kYD62k/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/bwvO9kYD62k/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/bwvO9kYD62k/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Musical shorts #music #calmingmusic #mustlisten #devotionalsongs #devotional"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 8
+      },
+      "etag": "a5ghRoT6luxGSLJMZa6yPjl10iQ",
+      "id": "PLqgS4ef1gBl1z3PZUIW8tFwhXQ1pirodw",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "GYAC 2024 Soundbites"
+        },
+        "publishedAt": "2024-07-31T07:07:33.545987Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/p6eADqCL8s4/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/p6eADqCL8s4/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/p6eADqCL8s4/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/p6eADqCL8s4/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/p6eADqCL8s4/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "GYAC 2024 Soundbites"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 44
+      },
+      "etag": "qOi6VZEFHQ278yE2I9Q1JVXXaLc",
+      "id": "PLqgS4ef1gBl3py-HFyUML56v6pKkcn2NU",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#god #spirituality #transformation #life #people #relationship #whatsappstatus #srisathyasaitamil #prasanthinilayam #sathyasaibaba #radiosai #miracle #divinediscourse #discourse #divineguidance #inspiration #motivation #guidance",
+        "localized": {
+          "description": "#god #spirituality #transformation #life #people #relationship #whatsappstatus #srisathyasaitamil #prasanthinilayam #sathyasaibaba #radiosai #miracle #divinediscourse #discourse #divineguidance #inspiration #motivation #guidance",
+          "title": "Upadesha Rathnas | Silent Shorts | உபதேசரத்தினங்கள் #famousquotes #motivating #quotes #values #messageoftheday #todayshorts #love #discipline #guru"
+        },
+        "publishedAt": "2024-07-29T06:14:43.825155Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Ilo1m-hNniw/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Ilo1m-hNniw/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Ilo1m-hNniw/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Ilo1m-hNniw/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Ilo1m-hNniw/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Upadesha Rathnas | Silent Shorts | உபதேசரத்தினங்கள் #famousquotes #motivating #quotes #values #messageoftheday #todayshorts #love #discipline #guru"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 3
+      },
+      "etag": "oyEogmpvMBjg5Wm1EZm-0MBs570",
+      "id": "PLqgS4ef1gBl3ZBzAcq0t5eUor6M8wXy73",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Ramakatha series"
+        },
+        "publishedAt": "2024-06-17T08:28:59.808482Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/YCfqJ1ZKfBk/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/YCfqJ1ZKfBk/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/YCfqJ1ZKfBk/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/YCfqJ1ZKfBk/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/YCfqJ1ZKfBk/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Ramakatha series"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 62
+      },
+      "etag": "FcNyjWyqVYTc8BvpJngv3qbjx4o",
+      "id": "PLqgS4ef1gBl3UxKeUy3dZu1zzOhJHrm-O",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Darshan shorts"
+        },
+        "publishedAt": "2024-05-14T11:54:11.306474Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/OWhvVfXQ2Xg/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/OWhvVfXQ2Xg/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/OWhvVfXQ2Xg/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/OWhvVfXQ2Xg/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/OWhvVfXQ2Xg/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Darshan shorts"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "rdXGY5ZsopGf1uGDAfmaZd7flf4",
+      "id": "PLqgS4ef1gBl0YNvftHPlVghsAtJdyCdDL",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#motherslove #care #mom #motivating #inspiration #spirituality\n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil",
+        "localized": {
+          "description": "#motherslove #care #mom #motivating #inspiration #spirituality\n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil",
+          "title": "Eshwaramma Day Special | Mother | Love #faith #love #hope #motivation #inspiring #mothersday #eshwarammaday #divinemother #parenting"
+        },
+        "publishedAt": "2024-05-02T11:04:50.038164Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/UNTmW_S55gU/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/UNTmW_S55gU/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/UNTmW_S55gU/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/UNTmW_S55gU/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/UNTmW_S55gU/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Eshwaramma Day Special | Mother | Love #faith #love #hope #motivation #inspiring #mothersday #eshwarammaday #divinemother #parenting"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 4
+      },
+      "etag": "dGWMF47OXMf3yv40uFY2EW7v_rU",
+      "id": "PLqgS4ef1gBl26SrLqumSZX_7jb9br3tLP",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#madurai #birth #madurai #festival #meenakshithirukalyanam #meenakshiammantemple #devotionalsongs  #villupattu #traditional #music #kallazhagar #rathayatra #srisathyasai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil #sathyasaibaba",
+        "localized": {
+          "description": "#madurai #birth #madurai #festival #meenakshithirukalyanam #meenakshiammantemple #devotionalsongs  #villupattu #traditional #music #kallazhagar #rathayatra #srisathyasai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil #sathyasaibaba",
+          "title": "Chithirai Thiruvizha | Madurai Meenakshi Thirukkalyanam | History | Madurai Meenakshi Amman | Villupaatu"
+        },
+        "publishedAt": "2024-04-24T04:45:24.65776Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/ucP5suHXXi0/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/ucP5suHXXi0/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/ucP5suHXXi0/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/ucP5suHXXi0/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/ucP5suHXXi0/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Chithirai Thiruvizha | Madurai Meenakshi Thirukkalyanam | History | Madurai Meenakshi Amman | Villupaatu"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "etag": "ZKmEsyMtdPi-sdMb3mf0BrJCv-0",
+      "id": "PLqgS4ef1gBl2ngyKnUwm5sxwduuuYLvfa",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Pancharatnam Experiences | பஞ்சரத்னம் பாடுவோம்  - பாபாவை பணிவோம் #experience #music #saipancharatnam #srisathyasaitamil #saibaba #srisathyasai"
+        },
+        "publishedAt": "2024-04-22T11:56:53.741226Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/7Y6Wte7t58k/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/7Y6Wte7t58k/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/7Y6Wte7t58k/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/7Y6Wte7t58k/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/7Y6Wte7t58k/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Pancharatnam Experiences | பஞ்சரத்னம் பாடுவோம்  - பாபாவை பணிவோம் #experience #music #saipancharatnam #srisathyasaitamil #saibaba #srisathyasai"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 6
+      },
+      "etag": "D1GHhAXCUykwcBGudj89PkXuxhk",
+      "id": "PLqgS4ef1gBl2heEs6_NRNevZB8terEkF3",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#miracle #satsang #motivation #inspiration #thanksgiving #kumbakonam  #love \n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil #firstaid #brave #humble #humanvalues #respect\n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil",
+        "localized": {
+          "description": "#miracle #satsang #motivation #inspiration #thanksgiving #kumbakonam  #love \n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil #firstaid #brave #humble #humanvalues #respect\n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil",
+          "title": "Aaradhana Day - Gratitude Offering | நன்றி தெரிவித்தல் -ஆராதனை தினம் #aradhanaday #disastermanagement"
+        },
+        "publishedAt": "2024-04-18T16:14:46.535998Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/VYyWtqqXYvY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/VYyWtqqXYvY/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/VYyWtqqXYvY/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/VYyWtqqXYvY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/VYyWtqqXYvY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Aaradhana Day - Gratitude Offering | நன்றி தெரிவித்தல் -ஆராதனை தினம் #aradhanaday #disastermanagement"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 18
+      },
+      "etag": "qKfbRhG45ePDfS31Dm1vYdcrOUE",
+      "id": "PLqgS4ef1gBl16IhDh_NeNwvwIFYuYhwGB",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "Divine Guidance | Upanishads | Vahinis\n\n#incident #experience #omnipresent #god #love #srisathyasaitamil #radiosai #prasanthinilayam #sathyasaibaba #divineguidance #upanishads #veda #vedanta #vedic #wisdom #wisdomstory",
+        "localized": {
+          "description": "Divine Guidance | Upanishads | Vahinis\n\n#incident #experience #omnipresent #god #love #srisathyasaitamil #radiosai #prasanthinilayam #sathyasaibaba #divineguidance #upanishads #veda #vedanta #vedic #wisdom #wisdomstory",
+          "title": "Sai's Mahavakyas | சாயியின் மஹாவாக்கியங்கள் #quoteoftheday #famousshorts #status #messageoftheday #sathyasaiquotes #whatsappstatus #messageoftheday"
+        },
+        "publishedAt": "2024-04-01T11:06:19.685399Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/yFsTVC4EZfo/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/yFsTVC4EZfo/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/yFsTVC4EZfo/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/yFsTVC4EZfo/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/yFsTVC4EZfo/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Sai's Mahavakyas | சாயியின் மஹாவாக்கியங்கள் #quoteoftheday #famousshorts #status #messageoftheday #sathyasaiquotes #whatsappstatus #messageoftheday"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 15
+      },
+      "etag": "hU77ir_lNyf8MKf3h38c464CO7E",
+      "id": "PLqgS4ef1gBl1qCRK8TyI8IA94TW5y3eD7",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#chinnakatha #kidsstory #grandma #sathyasaichinnakatha #story #childrenstories #humanvalues #shortstory #storiesforkids #storiesforchildren #tamil #srisathyasaitamil #prasanthinilayam #radiosai #sathyasaibaba #srisathyasai #balvikas",
+        "localized": {
+          "description": "#chinnakatha #kidsstory #grandma #sathyasaichinnakatha #story #childrenstories #humanvalues #shortstory #storiesforkids #storiesforchildren #tamil #srisathyasaitamil #prasanthinilayam #radiosai #sathyasaibaba #srisathyasai #balvikas",
+          "title": "Stories for Children | ஒரு சின்னக் கதை | Oru Chinna Kadhai - Animated Series | Sathya Sai Chinna Katha #tamilstory #bedtimestories #moralstories #EHV"
+        },
+        "publishedAt": "2024-03-30T12:36:14.93891Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/XSZGCDi_1xQ/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/XSZGCDi_1xQ/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/XSZGCDi_1xQ/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/XSZGCDi_1xQ/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/XSZGCDi_1xQ/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Stories for Children | ஒரு சின்னக் கதை | Oru Chinna Kadhai - Animated Series | Sathya Sai Chinna Katha #tamilstory #bedtimestories #moralstories #EHV"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 34
+      },
+      "etag": "1MobCcq_GWx9SFQTe-5mG1KWMyw",
+      "id": "PLqgS4ef1gBl1UlijuOhLcBr3YyZVzL9Mm",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#sathyasaiashtothram #sathyasaibaba #radiosai #srisathyasaitamil #prasanthinilayam #ashtothram",
+        "localized": {
+          "description": "#sathyasaiashtothram #sathyasaibaba #radiosai #srisathyasaitamil #prasanthinilayam #ashtothram",
+          "title": "Ashtothram - BABA Series | Bhakthiyil Kortha Nalmuthukkal"
+        },
+        "publishedAt": "2024-03-12T06:15:57.982552Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Cl0QexJSNbI/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Cl0QexJSNbI/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Cl0QexJSNbI/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Cl0QexJSNbI/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Ashtothram - BABA Series | Bhakthiyil Kortha Nalmuthukkal"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 110
+      },
+      "etag": "EpTNbCyIUSk9FosbiujEaU1eSN0",
+      "id": "PLqgS4ef1gBl1-6Ujvd2wFtPyCQpDdef8Z",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#lifequotes  #divineguidance #tips #care #life #motivation #inspiration \n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil",
+        "localized": {
+          "description": "#lifequotes  #divineguidance #tips #care #life #motivation #inspiration \n#SriSathyaSai #SaiBaba #PrasanthiNilayam #RadioSai #SriSathyaSaiTamil",
+          "title": "Discourse Shorts | அருளுரை முத்துக்கள் #shorts #shortvideo #shortsfeed"
+        },
+        "publishedAt": "2024-03-05T15:13:04.564316Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Nxvq6TtonM0/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Nxvq6TtonM0/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Nxvq6TtonM0/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Nxvq6TtonM0/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Nxvq6TtonM0/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Discourse Shorts | அருளுரை முத்துக்கள் #shorts #shortvideo #shortsfeed"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 14
+      },
+      "etag": "q16TexFJ8R8mDo4B_GkdRcc1omA",
+      "id": "PLqgS4ef1gBl0g2-TaOHaZ8HnsxsxkvIgQ",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#love #motivationalspeech #inspiration #satsang #groupdiscussion #reallife #truestory #miracle #inspiringstories #uplifting #hearttouching #surprise #powerful #unforgettable #courage #hope \n#srisathyasaitamil #quotes #motivation #tamilstory\n\nEmotional stories | True stories | Real-life stories | Inspiring stories | Motivational stories | Uplifting stories | Heartwarming stories | Touching stories | Powerful stories | Life-changing stories | Surprising stories | Unbelievable stories | Unforgettable stories | Untold stories | Unheard stories | Undiscovered stories | Hidden stories | Heroic stories | Courageous stories | Resilient stories | Adversity stories | Overcoming adversity stories | Hope stories | Never give up stories | Believe in yourself stories | Believe in your dreams stories | Make a difference stories",
+        "localized": {
+          "description": "#love #motivationalspeech #inspiration #satsang #groupdiscussion #reallife #truestory #miracle #inspiringstories #uplifting #hearttouching #surprise #powerful #unforgettable #courage #hope \n#srisathyasaitamil #quotes #motivation #tamilstory\n\nEmotional stories | True stories | Real-life stories | Inspiring stories | Motivational stories | Uplifting stories | Heartwarming stories | Touching stories | Powerful stories | Life-changing stories | Surprising stories | Unbelievable stories | Unforgettable stories | Untold stories | Unheard stories | Undiscovered stories | Hidden stories | Heroic stories | Courageous stories | Resilient stories | Adversity stories | Overcoming adversity stories | Hope stories | Never give up stories | Believe in yourself stories | Believe in your dreams stories | Make a difference stories",
+          "title": "Prema Dhaara | பிரேம தாரா | Letters from Bhagawan | Letters from Swami | Sathya Sai Letters #satsang #spirituality #saibaba #saimiracleintamil"
+        },
+        "publishedAt": "2024-03-02T11:01:40.44672Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/nKZiy9sQw1g/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/nKZiy9sQw1g/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/nKZiy9sQw1g/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/nKZiy9sQw1g/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/nKZiy9sQw1g/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Prema Dhaara | பிரேம தாரா | Letters from Bhagawan | Letters from Swami | Sathya Sai Letters #satsang #spirituality #saibaba #saimiracleintamil"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 3
+      },
+      "etag": "unTmxeM5CZ77bezLrvClRybh-gE",
+      "id": "PLqgS4ef1gBl15hUhA7XZ4XnDGzQHseAYE",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#srisathyasai #saibaba #prasanthinilayam #radiosai #puttaparthi #srisathyasaitamil #sathyasaibaba",
+        "localized": {
+          "description": "#srisathyasai #saibaba #prasanthinilayam #radiosai #puttaparthi #srisathyasaitamil #sathyasaibaba",
+          "title": "Tips | Simple Guidance #shorts #shortsfeed #reels #divineguidance #motivation #inspiration #rolemodel"
+        },
+        "publishedAt": "2024-02-18T15:41:37.977757Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/QxKWqbFOqR4/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/QxKWqbFOqR4/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/QxKWqbFOqR4/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/QxKWqbFOqR4/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/QxKWqbFOqR4/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Tips | Simple Guidance #shorts #shortsfeed #reels #divineguidance #motivation #inspiration #rolemodel"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 27
+      },
+      "etag": "3QBd8fU8TrCOpQ8r_Q-8GsJ9uNE",
+      "id": "PLqgS4ef1gBl3EYnV5q1r_-7FuhmWRQzYz",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#fridayspecial #fridays #stotram #devisong #devistotram",
+        "localized": {
+          "description": "#fridayspecial #fridays #stotram #devisong #devistotram",
+          "title": "Friday Specials | வெள்ளிக்கிழமை சிறப்பு நிகழ்ச்சிகள்"
+        },
+        "publishedAt": "2024-02-09T06:54:09.941363Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/93wQSHTWiR8/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/93wQSHTWiR8/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/93wQSHTWiR8/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/93wQSHTWiR8/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/93wQSHTWiR8/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Friday Specials | வெள்ளிக்கிழமை சிறப்பு நிகழ்ச்சிகள்"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 44
+      },
+      "etag": "_NyOc7gwyYKwIBzE1FgX_zeKtUI",
+      "id": "PLqgS4ef1gBl2mZMgicpcLkX0SGJa0k3h7",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Discourse Snippets"
+        },
+        "publishedAt": "2024-01-20T16:06:27.251546Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/dAhhJUzyTKw/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/dAhhJUzyTKw/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/dAhhJUzyTKw/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/dAhhJUzyTKw/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/dAhhJUzyTKw/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Discourse Snippets"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 30
+      },
+      "etag": "JZ80mRXiN-9J71jtrB0qDJRbVg8",
+      "id": "PLqgS4ef1gBl3xqhf8VEnDTtuMaVoR57y4",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#music #pasuram #margazhi #paamalai #saikrishna",
+        "localized": {
+          "description": "#music #pasuram #margazhi #paamalai #saikrishna",
+          "title": "Margazhi 2023 | மார்கழி 2023 | Pamalai | Pasuram"
+        },
+        "publishedAt": "2023-12-16T19:10:09.841073Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/oSUIXB3fDgM/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/oSUIXB3fDgM/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/oSUIXB3fDgM/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/oSUIXB3fDgM/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/oSUIXB3fDgM/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Margazhi 2023 | மார்கழி 2023 | Pamalai | Pasuram"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "o2DrDmCSQsSVGQt1EhOO_VjA9k8",
+      "id": "PLqgS4ef1gBl1CN_1m1nEienqjVZh30he4",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#soundbite #shortsfeed #shorts",
+        "localized": {
+          "description": "#soundbite #shortsfeed #shorts",
+          "title": "Sound Bites"
+        },
+        "publishedAt": "2023-11-29T13:01:46.393449Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/omVqZtOs1EY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/omVqZtOs1EY/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/omVqZtOs1EY/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/omVqZtOs1EY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/omVqZtOs1EY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Sound Bites"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "etag": "iL19U9fVEbsrg1F1beK1LYN2KWE",
+      "id": "PLqgS4ef1gBl3QlLie_8mJe8DAA-L5r98C",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#music #experience #miralce #SriSathyaSaiAnandavani #SriSathyaSai #SathyaSaiBaba #PrasanthiNilayam #RadioSai\n#SriSathyaSaiBirthday98 #HappyBirthdaySwami #98thBirthdayCelebrations",
+        "localized": {
+          "description": "#music #experience #miralce #SriSathyaSaiAnandavani #SriSathyaSai #SathyaSaiBaba #PrasanthiNilayam #RadioSai\n#SriSathyaSaiBirthday98 #HappyBirthdaySwami #98thBirthdayCelebrations",
+          "title": "Follow the Master | குருவருளே திருவருள்"
+        },
+        "publishedAt": "2023-11-15T12:15:10.69552Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/weLQZCP5tXg/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/weLQZCP5tXg/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/weLQZCP5tXg/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/weLQZCP5tXg/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/weLQZCP5tXg/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Follow the Master | குருவருளே திருவருள்"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 284
+      },
+      "etag": "Yd9jaavQKabm8mm8fUFEMZG4tfw",
+      "id": "PLqgS4ef1gBl1Pg_M3p9Dg9oY-uTwV57st",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#incident #wisdom #famousquotes #expeiment #fun #miracle #motivation #humor #love #care #guidance #miracle #experience #satsang #spirituality #god #guru \n#sathyasaibaba #puttaparthi #prasanthinilayam #radiosai #srisathyasaitamil #srisathyasai #saibaba",
+        "localized": {
+          "description": "#incident #wisdom #famousquotes #expeiment #fun #miracle #motivation #humor #love #care #guidance #miracle #experience #satsang #spirituality #god #guru \n#sathyasaibaba #puttaparthi #prasanthinilayam #radiosai #srisathyasaitamil #srisathyasai #saibaba",
+          "title": "One Minute Experiences | ஒரு நிமிட அனுபவங்கள் | Incident Shorts #shorts #shortsfeed #saimiracleintamil #miracle #experience #satsang"
+        },
+        "publishedAt": "2023-11-06T13:41:43.787956Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/UJg2q3sHbHs/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/UJg2q3sHbHs/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/UJg2q3sHbHs/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/UJg2q3sHbHs/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/UJg2q3sHbHs/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "One Minute Experiences | ஒரு நிமிட அனுபவங்கள் | Incident Shorts #shorts #shortsfeed #saimiracleintamil #miracle #experience #satsang"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 2
+      },
+      "etag": "BBGy8xhks2TzLtIAIkShzgDYA7E",
+      "id": "PLqgS4ef1gBl3wqmeVL9ycsmgdDlhVSJRZ",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Prasanthi Chronicles (Tamil) | ப்ரசாந்தி வரலாறு |"
+        },
+        "publishedAt": "2023-10-20T15:16:04.853166Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/OT7gaf1k76M/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/OT7gaf1k76M/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/OT7gaf1k76M/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/OT7gaf1k76M/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/OT7gaf1k76M/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Prasanthi Chronicles (Tamil) | ப்ரசாந்தி வரலாறு |"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 9
+      },
+      "etag": "uqvwngZQPBc1khq4-kfFlObyRj4",
+      "id": "PLqgS4ef1gBl1wTa080CBIgeFZtFjvCXKE",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#radiosai #veda #friday #devi #durga #lakshmi #saraswati #kali #chantings #prayer \n#srisathyasaitamil #prashanthinilayam #srisathyasai #radiosai #saibaba",
+        "localized": {
+          "description": "#radiosai #veda #friday #devi #durga #lakshmi #saraswati #kali #chantings #prayer \n#srisathyasaitamil #prashanthinilayam #srisathyasai #radiosai #saibaba",
+          "title": "ஸ்தோத்திரங்கள் | Stotrams | | Devi Stotram | Devi Mantra  #chant #stotram #mantra #devotional #spirituality"
+        },
+        "publishedAt": "2023-10-16T10:07:28.065785Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/D9Q01bRS6kY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/D9Q01bRS6kY/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/D9Q01bRS6kY/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/D9Q01bRS6kY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/D9Q01bRS6kY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "ஸ்தோத்திரங்கள் | Stotrams | | Devi Stotram | Devi Mantra  #chant #stotram #mantra #devotional #spirituality"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 18
+      },
+      "etag": "6Ni6oN8NoRNfBl8hsJscGz0kkDw",
+      "id": "PLqgS4ef1gBl0p5kQmHKrluLyr5Hvls6i2",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#dasara #dussera #kali #mother #satsang #documentary #matarani #mata #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss",
+        "localized": {
+          "description": "#dasara #dussera #kali #mother #satsang #documentary #matarani #mata #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss",
+          "title": "Dasara 2023 Navaratri 2023 #dussera #navaratri #devi #navratri #devi #durga #lakshmi #saraswati #vijayadashami"
+        },
+        "publishedAt": "2023-10-14T14:05:17.264017Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/JstKfccBLPM/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/JstKfccBLPM/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/JstKfccBLPM/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/JstKfccBLPM/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/JstKfccBLPM/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Dasara 2023 Navaratri 2023 #dussera #navaratri #devi #navratri #devi #durga #lakshmi #saraswati #vijayadashami"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 20
+      },
+      "etag": "XIvbnSvB0yumHKlWbnim0HTdzbM",
+      "id": "PLqgS4ef1gBl3YUaE5FE9fKD6HmdCJhLas",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#dasara #dussera #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss #tamilstory #navaratri #devi #festival",
+        "localized": {
+          "description": "#dasara #dussera #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss #tamilstory #navaratri #devi #festival",
+          "title": "Dasara Story (Shorts) | தசரா வரலாறு #shortsfeed #shorts"
+        },
+        "publishedAt": "2023-09-22T13:09:46.572313Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/HkHugJH7VWY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/HkHugJH7VWY/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/HkHugJH7VWY/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/HkHugJH7VWY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/HkHugJH7VWY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Dasara Story (Shorts) | தசரா வரலாறு #shortsfeed #shorts"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 62
+      },
+      "etag": "ADyenw8ld95tryaaITcmGe0Iy9A",
+      "id": "PLqgS4ef1gBl0T6IdoIVtr0v_j8WyRPxed",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "Special Programs #special #tamilfestival #music #art #music #celebration #tamilnadu",
+        "localized": {
+          "description": "Special Programs #special #tamilfestival #music #art #music #celebration #tamilnadu",
+          "title": "சிறப்பு வெளியீடு | Special Programs | Festival | பண்டிகை"
+        },
+        "publishedAt": "2023-08-09T04:00:39.372756Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/-IDJYc0fUdM/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/-IDJYc0fUdM/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/-IDJYc0fUdM/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/-IDJYc0fUdM/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/-IDJYc0fUdM/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "சிறப்பு வெளியீடு | Special Programs | Festival | பண்டிகை"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 53
+      },
+      "etag": "NDRvuYuh9tk8lBhsjWVACzO5zMw",
+      "id": "PLqgS4ef1gBl3W5Zd_OSxb6xjllJMUmJFR",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#fridayspecial #devi #maa #mata #devi #bhajan",
+        "localized": {
+          "description": "#fridayspecial #devi #maa #mata #devi #bhajan",
+          "title": "காயத்ரி மாதா தரிசனம் | Gayathri Mata Darshan | Friday Special #friday #devidarshan #gayatridevi #durgapuja"
+        },
+        "publishedAt": "2023-08-02T02:21:05.010287Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/wi2vNv6OdLE/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/wi2vNv6OdLE/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/wi2vNv6OdLE/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/wi2vNv6OdLE/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/wi2vNv6OdLE/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "காயத்ரி மாதா தரிசனம் | Gayathri Mata Darshan | Friday Special #friday #devidarshan #gayatridevi #durgapuja"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 5
+      },
+      "etag": "UwDOJF91nQtkxSuxq8AATIGDekk",
+      "id": "PLqgS4ef1gBl2lojcK4RyYgjAlUNwIElJf",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "பகவான் ஸ்ரீ சத்ய சாயி பாபாவின் பத்யம் (கவிதை) #கவிதை #spirituality #music #divineguidance #wayoflove #wisdom",
+        "localized": {
+          "description": "பகவான் ஸ்ரீ சத்ய சாயி பாபாவின் பத்யம் (கவிதை) #கவிதை #spirituality #music #divineguidance #wayoflove #wisdom",
+          "title": "Padyam (poem) by Bhagawan Sri Sathya Sai Baba #poem #poems"
+        },
+        "publishedAt": "2023-07-31T03:05:47.113833Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/UcNaTOrpIUY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/UcNaTOrpIUY/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/UcNaTOrpIUY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/UcNaTOrpIUY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Padyam (poem) by Bhagawan Sri Sathya Sai Baba #poem #poems"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 8
+      },
+      "etag": "XxT9H_6AEbXZ5iYeQVZxLaXfjnY",
+      "id": "PLqgS4ef1gBl1qdVGOQJ8G01EweQtjPqpe",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#music  பதில்களை கமெண்டில் தெரிவிக்கவும் | Write Your Answers in Comments\n#SathyaSaiBaba #PrasanthiNilayam #identify #godgaming #antakshari  #teamgame #findthesong",
+        "localized": {
+          "description": "#music  பதில்களை கமெண்டில் தெரிவிக்கவும் | Write Your Answers in Comments\n#SathyaSaiBaba #PrasanthiNilayam #identify #godgaming #antakshari  #teamgame #findthesong",
+          "title": "பஜனைகளை யூகிக்கவும் | Guess the Bhajan #shorts #music #game #kidsgames #guessthesong #divine #bliss #guessthesong #saibhajan #SriSathyaSai #RadioSai"
+        },
+        "publishedAt": "2023-07-18T12:49:01.979024Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/D1oq_wbx3rw/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/D1oq_wbx3rw/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/D1oq_wbx3rw/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/D1oq_wbx3rw/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/D1oq_wbx3rw/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பஜனைகளை யூகிக்கவும் | Guess the Bhajan #shorts #music #game #kidsgames #guessthesong #divine #bliss #guessthesong #saibhajan #SriSathyaSai #RadioSai"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 15
+      },
+      "etag": "dW64j8iLFc-Gz0fmOnM6d2_p-D4",
+      "id": "PLqgS4ef1gBl1EkyRItocP8K8rpEjKI3Ub",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "பகவானின் பக்தர்கள் 120க்கும் மேற்பட்ட நாடுகளில் பரவியிருந்தாலும், மூன்று நாடுகளுக்கு மட்டுமே பகவான் நேரில் விஜயம் செய்யும் பாக்கியம் கிட்டியது. இவை மூன்றுமே கிழக்கு ஆப்பிரிக்காவில் உள்ள நாடுகளாகும்!\n\nமேலைநாட்டிற்கு மேற்கொண்ட ஒரே விஜயமான இப்பயணத்தை பகவான் 1968 ஜூன் 30 அன்று தொடங்கினார். \n\nதேசங்கள், குலங்கள் மட்டுமல்லாது உயிரினங்களுக்கும் அப்பாற்பட்ட உலகளாவிய அன்புமயமான அருட்பயணம்! \n\nதெய்வீக ஆப்பிரிக்க விஜயம் \n\n- மீண்டும் ஒருமுறை மனக்கண் முன் கொண்டு வந்து அனுபவிப்பதற்கு எங்களுடன் இணையுங்கள். \n\nபயணிக்கத் தயாராகுங்கள்!",
+        "localized": {
+          "description": "பகவானின் பக்தர்கள் 120க்கும் மேற்பட்ட நாடுகளில் பரவியிருந்தாலும், மூன்று நாடுகளுக்கு மட்டுமே பகவான் நேரில் விஜயம் செய்யும் பாக்கியம் கிட்டியது. இவை மூன்றுமே கிழக்கு ஆப்பிரிக்காவில் உள்ள நாடுகளாகும்!\n\nமேலைநாட்டிற்கு மேற்கொண்ட ஒரே விஜயமான இப்பயணத்தை பகவான் 1968 ஜூன் 30 அன்று தொடங்கினார். \n\nதேசங்கள், குலங்கள் மட்டுமல்லாது உயிரினங்களுக்கும் அப்பாற்பட்ட உலகளாவிய அன்புமயமான அருட்பயணம்! \n\nதெய்வீக ஆப்பிரிக்க விஜயம் \n\n- மீண்டும் ஒருமுறை மனக்கண் முன் கொண்டு வந்து அனுபவிப்பதற்கு எங்களுடன் இணையுங்கள். \n\nபயணிக்கத் தயாராகுங்கள்!",
+          "title": "பகவானின் கிழக்கு ஆப்பிரிக்கா விஜயம் | #saitravel #eastafrica #africa #visit #experience #miracle #happiness #bliss #love #compassion"
+        },
+        "publishedAt": "2023-06-30T17:19:07.711382Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/yYovbxFOQF8/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/yYovbxFOQF8/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/yYovbxFOQF8/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/yYovbxFOQF8/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/yYovbxFOQF8/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பகவானின் கிழக்கு ஆப்பிரிக்கா விஜயம் | #saitravel #eastafrica #africa #visit #experience #miracle #happiness #bliss #love #compassion"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 21
+      },
+      "etag": "AxkCXNmnRK_CLjb12mWHONac8tY",
+      "id": "PLqgS4ef1gBl1bClCu82vrprnEDWF9k0IQ",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#srisathyasaianandavani Sathya Sai Pancharatna Krithis",
+        "localized": {
+          "description": "#srisathyasaianandavani Sathya Sai Pancharatna Krithis",
+          "title": "சாயி பஞ்சரத்ன கீர்த்தனைகள்  #pacharatnatnakritis #music #divine"
+        },
+        "publishedAt": "2023-04-15T10:54:46.78948Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/LOFkvDczx5U/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/LOFkvDczx5U/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/LOFkvDczx5U/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/LOFkvDczx5U/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/LOFkvDczx5U/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "சாயி பஞ்சரத்ன கீர்த்தனைகள்  #pacharatnatnakritis #music #divine"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 65
+      },
+      "etag": "lYeKeum8KgpSq34n3RBH0wRWFBA",
+      "id": "PLqgS4ef1gBl2ypOo0yZ2yWO7J_bDvsMVw",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#kids #kidsvideo #tamilstory #tamilsong #tamilstatus #slokas #devotionalsongs #music #tamilspeech",
+        "localized": {
+          "description": "#kids #kidsvideo #tamilstory #tamilsong #tamilstatus #slokas #devotionalsongs #music #tamilspeech",
+          "title": "பாலவிகாஸ் திறன் தேடல் | Balvikas Talent Search"
+        },
+        "publishedAt": "2023-01-30T10:58:33.105199Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Aje0Malm0oU/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Aje0Malm0oU/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Aje0Malm0oU/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Aje0Malm0oU/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Aje0Malm0oU/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பாலவிகாஸ் திறன் தேடல் | Balvikas Talent Search"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 96
+      },
+      "etag": "IRfvgLqDS3ZFnJpb-qMHdE6bFQg",
+      "id": "PLqgS4ef1gBl3Oopou5_HIB0PwVQ1jjMvn",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#storiesintamil #storiesforkidsintamil #sailove #saiexperience #sathyamshivamsundaram #shravanam #radiosai #prasanthinilayam #puttaparthi #saileela #uravakonda #penukonda #miracleman",
+        "localized": {
+          "description": "#storiesintamil #storiesforkidsintamil #sailove #saiexperience #sathyamshivamsundaram #shravanam #radiosai #prasanthinilayam #puttaparthi #saileela #uravakonda #penukonda #miracleman",
+          "title": "சத்யம் சிவம் சுந்தரம் - Sathyam Sivam Sundaram - Book Reading #saibaba #audiobook #listening  #divineguidance #miracle #swami #divineguidance #satsang"
+        },
+        "publishedAt": "2022-12-03T12:44:34.386943Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/cCcCEf3JFHc/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/cCcCEf3JFHc/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/cCcCEf3JFHc/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/cCcCEf3JFHc/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/cCcCEf3JFHc/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "சத்யம் சிவம் சுந்தரம் - Sathyam Sivam Sundaram - Book Reading #saibaba #audiobook #listening  #divineguidance #miracle #swami #divineguidance #satsang"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "etag": "t33ezVf6uYzoE2hb-LUJSBfj85g",
+      "id": "PLqgS4ef1gBl2JcoYcDtlQIK3FLB5hIK32",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#music #devi #dasara #dussera #navaratri #songs #story",
+        "localized": {
+          "description": "#music #devi #dasara #dussera #navaratri #songs #story",
+          "title": "நவராத்திரி நாயகி சாயீச்வரி | Navaratri Nayaki Sayeeshwari"
+        },
+        "publishedAt": "2022-09-27T09:47:35.108197Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/soEJ-Bn2rU0/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/soEJ-Bn2rU0/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/soEJ-Bn2rU0/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/soEJ-Bn2rU0/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/soEJ-Bn2rU0/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "நவராத்திரி நாயகி சாயீச்வரி | Navaratri Nayaki Sayeeshwari"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 9
+      },
+      "etag": "tLVXT2MMTi8BF-Jr5SAQxaDwe1A",
+      "id": "PLqgS4ef1gBl0qh5pb0Wz5EUKoGeUk0feb",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#dasara #dussera #kali #mother #satsang #documentary #matarani #mata #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss",
+        "localized": {
+          "description": "#dasara #dussera #kali #mother #satsang #documentary #matarani #mata #puttaparthi #prashanthinilayam  #srisathyasai #srisathyasaianandavani #radiosai #saibhajan #miracle #spirituality #bliss",
+          "title": "தசரா வரலாறு | The History of Dasara | Dasara Documentary Tamil #dussera #navaratri #devi #navratri #devi #durga #lakshmi #saraswati #vijayadashami"
+        },
+        "publishedAt": "2022-09-26T10:01:16.667915Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Cf9151v5O8w/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Cf9151v5O8w/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Cf9151v5O8w/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Cf9151v5O8w/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Cf9151v5O8w/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "தசரா வரலாறு | The History of Dasara | Dasara Documentary Tamil #dussera #navaratri #devi #navratri #devi #durga #lakshmi #saraswati #vijayadashami"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 12
+      },
+      "etag": "4XNj58uXEron-IfdccfgeckL9Bg",
+      "id": "PLqgS4ef1gBl158m9koXNZBUk9fQ9eKWKo",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "உபநிஷத் வாஹினி | ஸ்ரவணமஞ்சரி - Upanishad Vahini | Book Reading"
+        },
+        "publishedAt": "2022-07-16T15:08:40.104783Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/oKGha6ng5Sk/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/oKGha6ng5Sk/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/oKGha6ng5Sk/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/oKGha6ng5Sk/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/oKGha6ng5Sk/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "உபநிஷத் வாஹினி | ஸ்ரவணமஞ்சரி - Upanishad Vahini | Book Reading"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 17
+      },
+      "etag": "0YXfWn9Xd8fYP7L4OXiEEkrVUj0",
+      "id": "PLqgS4ef1gBl0LO9173xkBNQUmNYClJDcm",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "பஜ கோவிந்தம் | Talks on Bhaja Govindam"
+        },
+        "publishedAt": "2022-07-12T09:40:34.242564Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/vbI-0Iqj_mI/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/vbI-0Iqj_mI/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/vbI-0Iqj_mI/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/vbI-0Iqj_mI/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/vbI-0Iqj_mI/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பஜ கோவிந்தம் | Talks on Bhaja Govindam"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 2
+      },
+      "etag": "Am9M5PN1mklvca4VTrrBLu3Hq04",
+      "id": "PLqgS4ef1gBl3rhUBivPGdUM5JJ87x3yAY",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Paduka Pratishta"
+        },
+        "publishedAt": "2022-06-08T06:56:41.129295Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/px16d5j80Og/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/px16d5j80Og/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/px16d5j80Og/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/px16d5j80Og/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/px16d5j80Og/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Paduka Pratishta"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "s0uPmur8WS0HZF4r8XYdTS5fqDQ",
+      "id": "PLqgS4ef1gBl3US6hNJf8Yqhyh368Rb19m",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "Ekadasa Rudram"
+        },
+        "publishedAt": "2022-05-03T10:29:40.59262Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/eoq2XwJSr0Q/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/eoq2XwJSr0Q/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/eoq2XwJSr0Q/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/eoq2XwJSr0Q/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/eoq2XwJSr0Q/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Ekadasa Rudram"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 13
+      },
+      "etag": "CFPJPuQZ_sEhC8sbuhPRGHLNkuc",
+      "id": "PLqgS4ef1gBl07LVvcJ30xIXDccJXREZwL",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "தியான வாஹினி - ஸ்ரவணமஞ்சரி - Dhyana Vahini - Book Reading"
+        },
+        "publishedAt": "2022-04-09T12:08:11.220465Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/RaLFI3yJAKk/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/RaLFI3yJAKk/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/RaLFI3yJAKk/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/RaLFI3yJAKk/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/RaLFI3yJAKk/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "தியான வாஹினி - ஸ்ரவணமஞ்சரி - Dhyana Vahini - Book Reading"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 48
+      },
+      "etag": "t2lp2dekIBGfzVqNoBCbZeeGf2U",
+      "id": "PLqgS4ef1gBl1q1-D7rd5UHrHEe1LaF9Ii",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#rudraksha #rudrabhishek #sathyasaibaba #puttaparthi #shivalingam #prasanthinilayam #radiosai",
+        "localized": {
+          "description": "#rudraksha #rudrabhishek #sathyasaibaba #puttaparthi #shivalingam #prasanthinilayam #radiosai",
+          "title": "பிரதோஷகால பூஜை | Pradoshakala Pooja #lordshiva #darshan #pooja #saibaba #bliss #sacred #prasadam #divinity #abhishekam #lingam #pradosham #rudra"
+        },
+        "publishedAt": "2022-03-29T04:57:29.367462Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/s-i9t2bmQ-A/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/s-i9t2bmQ-A/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/s-i9t2bmQ-A/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/s-i9t2bmQ-A/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/s-i9t2bmQ-A/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பிரதோஷகால பூஜை | Pradoshakala Pooja #lordshiva #darshan #pooja #saibaba #bliss #sacred #prasadam #divinity #abhishekam #lingam #pradosham #rudra"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 20
+      },
+      "etag": "xnc-gf16kO6vkLh1VUR_wpWKGFs",
+      "id": "PLqgS4ef1gBl3FISBbVB7RMGLZ9fE-taHL",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#divineguidance #divine",
+        "localized": {
+          "description": "#divineguidance #divine",
+          "title": "Satsang Talks #experience #miracle #happiness #love #bliss #godstory #memory"
+        },
+        "publishedAt": "2022-03-10T13:03:28.5207Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/yA487jFXA7I/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/yA487jFXA7I/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/yA487jFXA7I/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/yA487jFXA7I/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/yA487jFXA7I/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Satsang Talks #experience #miracle #happiness #love #bliss #godstory #memory"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 10
+      },
+      "etag": "pq9qZER7672v3ObZpai9svyooGk",
+      "id": "PLqgS4ef1gBl3IcFruSKjIwmtLAWg6CL_O",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "கலந்துரையாடல் - Panel Discussions"
+        },
+        "publishedAt": "2022-03-10T13:01:53.190764Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/d1jHlwsozQM/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/d1jHlwsozQM/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/d1jHlwsozQM/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/d1jHlwsozQM/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/d1jHlwsozQM/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "கலந்துரையாடல் - Panel Discussions"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 46
+      },
+      "etag": "lphHZ2O_n_S05PPIFBsaxwXwyog",
+      "id": "PLqgS4ef1gBl0xlTK8PsdvkdkMg0ctTSv7",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#meditativemusic #saibhajan #meditativesongs #devotional #srisathyasaitamil #radiosai #sathyasaibaba #prasanthinilayam #god #listen #calmness #solution",
+        "localized": {
+          "description": "#meditativemusic #saibhajan #meditativesongs #devotional #srisathyasaitamil #radiosai #sathyasaibaba #prasanthinilayam #god #listen #calmness #solution",
+          "title": "Devotional Songs - சங்கீதவாணி - Sangeetavani | Devotional Songs #soothing #music #jukebox #tamilsong #calm #peace #mustlisten #spiritualsongs #divine"
+        },
+        "publishedAt": "2022-03-10T13:00:11.605159Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/P73OBL4XO0U/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/P73OBL4XO0U/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/P73OBL4XO0U/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/P73OBL4XO0U/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/P73OBL4XO0U/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "Devotional Songs - சங்கீதவாணி - Sangeetavani | Devotional Songs #soothing #music #jukebox #tamilsong #calm #peace #mustlisten #spiritualsongs #divine"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 30
+      },
+      "etag": "pswb6MLkf2j50zXzdD6fsTtMcwY",
+      "id": "PLqgS4ef1gBl3fCA-iL8oAzUN4lPLpbXOE",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "கோதா கீதை | Tiruppavai Series"
+        },
+        "publishedAt": "2021-12-17T06:31:05.567843Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/hzeTLoNxl6s/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/hzeTLoNxl6s/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/hzeTLoNxl6s/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/hzeTLoNxl6s/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/hzeTLoNxl6s/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "கோதா கீதை | Tiruppavai Series"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 22
+      },
+      "etag": "qhhw8uOA4sz9zemwFc9JgVNaz28",
+      "id": "PLqgS4ef1gBl0TJCOAAd7ikJOx_lVMNvdM",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "பிரேம வாஹினி - ஸ்ரவணமஞ்சரி - Prema Vahini - Book Reading"
+        },
+        "publishedAt": "2021-10-16T05:08:03.19964Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/u29yyFtJYNQ/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/u29yyFtJYNQ/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/u29yyFtJYNQ/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/u29yyFtJYNQ/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/u29yyFtJYNQ/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பிரேம வாஹினி - ஸ்ரவணமஞ்சரி - Prema Vahini - Book Reading"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 11
+      },
+      "etag": "c2E_Rlu7ekAg4aA3QMWJ5r1IA7E",
+      "id": "PLqgS4ef1gBl1Llyd4L9RN4IUYFZZDzRaK",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "தேவியின் மகத்துவம் | நவராத்திரி சிறப்பு நிகழ்ச்சி | Navaratri Special"
+        },
+        "publishedAt": "2021-10-06T10:43:24.960065Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/fZHrZbvOBvg/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/fZHrZbvOBvg/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/fZHrZbvOBvg/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/fZHrZbvOBvg/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/fZHrZbvOBvg/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "தேவியின் மகத்துவம் | நவராத்திரி சிறப்பு நிகழ்ச்சி | Navaratri Special"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 13
+      },
+      "etag": "2AOu0YHbOlmGO2tSd6e8nIs8lBc",
+      "id": "PLqgS4ef1gBl35ZZkf2Dkz4q9R1n8eiAtv",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "தர்ம வாஹினி - ஸ்ரவணமஞ்சரி - Dharma Vahini"
+        },
+        "publishedAt": "2021-07-10T06:08:21.17724Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/fmCK-O8NXSI/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/fmCK-O8NXSI/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/fmCK-O8NXSI/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/fmCK-O8NXSI/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/fmCK-O8NXSI/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "தர்ம வாஹினி - ஸ்ரவணமஞ்சரி - Dharma Vahini"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 793
+      },
+      "etag": "kHZIMRaFd0nL6hbSrdz_PDq1ZYk",
+      "id": "PLqgS4ef1gBl13LjI4e6UFroJOTzgRbUWN",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#srisathyasai #saibaba #prasanthinilayam #radiosai #puttaparthi #srisathyasaitamil #sathyasaibaba",
+        "localized": {
+          "description": "#srisathyasai #saibaba #prasanthinilayam #radiosai #puttaparthi #srisathyasaitamil #sathyasaibaba",
+          "title": "#Shorts #shortsfeed #reels"
+        },
+        "publishedAt": "2021-06-05T10:12:01.053925Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/LD4qFaTaFck/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/LD4qFaTaFck/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/LD4qFaTaFck/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "#Shorts #shortsfeed #reels"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 16
+      },
+      "etag": "HSvg4phTlUT-ILVYki9Lq3RrYK0",
+      "id": "PLqgS4ef1gBl3_VQ6Za81mBpACP4BegifU",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "சாயி பஜன் | Sai Bhajan"
+        },
+        "publishedAt": "2021-01-28T06:11:13.557895Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/5RaWtQ0DpHg/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/5RaWtQ0DpHg/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/5RaWtQ0DpHg/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/5RaWtQ0DpHg/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/5RaWtQ0DpHg/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "சாயி பஜன் | Sai Bhajan"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 13
+      },
+      "etag": "fdPbrBRLgn4XYQ0Riivc81AR0i4",
+      "id": "PLqgS4ef1gBl2WwTgkB9BuaJGIMx4UfF-x",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "கவிதைத் தொடர் - Poem Series"
+        },
+        "publishedAt": "2020-11-30T13:59:35.684728Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/9-UHleM-c2w/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/9-UHleM-c2w/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/9-UHleM-c2w/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/9-UHleM-c2w/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/9-UHleM-c2w/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "கவிதைத் தொடர் - Poem Series"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 23
+      },
+      "etag": "CSOHoBiVYc0LxoZRKuVhw4uBymA",
+      "id": "PLqgS4ef1gBl04VL-HymFeKYPlKwylO1Ov",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "அருளுரை முத்துக்கள்"
+        },
+        "publishedAt": "2020-11-19T02:14:18.556917Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Jpbl3UQLVtY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Jpbl3UQLVtY/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Jpbl3UQLVtY/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Jpbl3UQLVtY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Jpbl3UQLVtY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "அருளுரை முத்துக்கள்"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 110
+      },
+      "etag": "FwRw6_zgU7bRAkFF3OWoSDs1DmE",
+      "id": "PLqgS4ef1gBl2-NsiNZouEE8AmNzWYG6We",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#experiencebydevotees #wonder #good #motivationaltalks #tamilstory #saibaba #hearttouching #hearttouchingstory #miracle #god #sathyasaimiracles #sathyasaistories #shockingrevelations #inspirationaltalk #divineguidance #bhakthi #atmaram #atmarama #miracles #worklifebalance",
+        "localized": {
+          "description": "#experiencebydevotees #wonder #good #motivationaltalks #tamilstory #saibaba #hearttouching #hearttouchingstory #miracle #god #sathyasaimiracles #sathyasaistories #shockingrevelations #inspirationaltalk #divineguidance #bhakthi #atmaram #atmarama #miracles #worklifebalance",
+          "title": "ஆத்மார்த்த அனுபவங்கள் - Divine Experiences-Heart Touching Devotees Experiences|Atmartha Anubavangal #motivation #inspiration #calm #happy #love #peace"
+        },
+        "publishedAt": "2020-09-11T05:19:24.749275Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/buUyYLxGhqU/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "ஆத்மார்த்த அனுபவங்கள் - Divine Experiences-Heart Touching Devotees Experiences|Atmartha Anubavangal #motivation #inspiration #calm #happy #love #peace"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 44
+      },
+      "etag": "nmpMIujnl2YCD0Y_UaF-TMhQA1Q",
+      "id": "PLqgS4ef1gBl3Kp5XXLtzBxd-H6z9ZVraI",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "பாகவத வாஹினி - ஸ்ரவணமஞ்சரி - Bhagavatha Vahini - Book Reading"
+        },
+        "publishedAt": "2020-09-07T05:38:14.370425Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/rmBbQ5kTL_A/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/rmBbQ5kTL_A/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/rmBbQ5kTL_A/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/rmBbQ5kTL_A/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/rmBbQ5kTL_A/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பாகவத வாஹினி - ஸ்ரவணமஞ்சரி - Bhagavatha Vahini - Book Reading"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 176
+      },
+      "etag": "9IgMb7F72c-H1Z0R8VuPkZDlI0o",
+      "id": "PLqgS4ef1gBl1sk9UN_7ZYWY5dqIcbFdZn",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "Bhajan Tutorial | Bhajan Classroom | Every Saturday Morning #radiosai  #prashanthinilayam #srisathyasai #puttaparthi #spirituality",
+        "localized": {
+          "description": "Bhajan Tutorial | Bhajan Classroom | Every Saturday Morning #radiosai  #prashanthinilayam #srisathyasai #puttaparthi #spirituality",
+          "title": "பஜனை பயிற்சி வகுப்பு | Bhajan Classroom | #saibhajan #bhajantutor #experience #miracle #bhajanclass #srisathyasaianandavani"
+        },
+        "publishedAt": "2020-07-13T06:40:05.17912Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/e2aR1eRX7kY/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/e2aR1eRX7kY/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/e2aR1eRX7kY/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/e2aR1eRX7kY/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/e2aR1eRX7kY/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "பஜனை பயிற்சி வகுப்பு | Bhajan Classroom | #saibhajan #bhajantutor #experience #miracle #bhajanclass #srisathyasaianandavani"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 37
+      },
+      "etag": "C3Ghlh9dfLydk1S1az8yc0a_Mo8",
+      "id": "PLqgS4ef1gBl2cFdR7yu9EgQVatLtSimwH",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#tamilbedtimestories #tamilstory #kidsstories #tamilstories #humanvalues \n#srisathyasaitamil #prasanthinilayam #srisathyasai #radiosai #sathyasaibaba",
+        "localized": {
+          "description": "#tamilbedtimestories #tamilstory #kidsstories #tamilstories #humanvalues \n#srisathyasaitamil #prasanthinilayam #srisathyasai #radiosai #sathyasaibaba",
+          "title": "சின்ன கதா - Chinna Katha #moralstories #moralstory #valuebasedstories #srisathyasaitamil #srisathyasai"
+        },
+        "publishedAt": "2020-07-13T06:21:27.788495Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/BDGSJkgcfh8/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/BDGSJkgcfh8/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/BDGSJkgcfh8/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/BDGSJkgcfh8/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/BDGSJkgcfh8/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "சின்ன கதா - Chinna Katha #moralstories #moralstory #valuebasedstories #srisathyasaitamil #srisathyasai"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 148
+      },
+      "etag": "PD5u_JJVVkDMqrtrgLzcesSraxk",
+      "id": "PLqgS4ef1gBl3uYeYa1Jg55rko47062qm0",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "#discipline #wordsofwisdom #wisdombliss #srisathyasaitamil",
+        "localized": {
+          "description": "#discipline #wordsofwisdom #wisdombliss #srisathyasaitamil",
+          "title": "தெய்வத்தின் அருளுரை | Divine Discourse | Divine Guidance | #sathyasaispeaks #saiquotes #philosophy #atma #wayoflife #divineguidance"
+        },
+        "publishedAt": "2020-07-13T06:17:25.317132Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/j_1FcKU2sqQ/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/j_1FcKU2sqQ/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/j_1FcKU2sqQ/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/j_1FcKU2sqQ/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/j_1FcKU2sqQ/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "தெய்வத்தின் அருளுரை | Divine Discourse | Divine Guidance | #sathyasaispeaks #saiquotes #philosophy #atma #wayoflife #divineguidance"
+      }
+    },
+    {
+      "contentDetails": {
+        "itemCount": 9
+      },
+      "etag": "7GGV5OY3zYyr0LW73elGVaqae7Y",
+      "id": "PLqgS4ef1gBl1O9r6PhILfgZf-yk5x4Pva",
+      "kind": "youtube#playlist",
+      "snippet": {
+        "channelId": "UCDLYPcfCydTupMGke7EAJ-g",
+        "channelTitle": "Sri Sathya Sai Tamil",
+        "description": "",
+        "localized": {
+          "description": "",
+          "title": "ஞான வாஹினி - ஸ்ரவணமஞ்சரி - Jnana Vahini - Book Reading"
+        },
+        "publishedAt": "2020-07-03T13:16:34.974383Z",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/vblwNYyEoPU/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/vblwNYyEoPU/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/vblwNYyEoPU/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/vblwNYyEoPU/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/vblwNYyEoPU/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "ஞான வாஹினி - ஸ்ரவணமஞ்சரி - Jnana Vahini - Book Reading"
+      }
+    }
+  ]
+}
